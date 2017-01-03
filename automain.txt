@@ -1,0 +1,122 @@
+add
+Tony Hansen
+Writer
+12 E. St. NY, NY 33333
+555-9999
+
+add
+Jon Smyth
+Computer Hardware
+CMU Computer Services Pittsburgh, PA
+555-1324
+
+add
+Alonza Heard
+Mechanic
+123 Anyplace Ave Malden, MA
+555-5678
+
+add
+Jen Reyes
+Graphic artist
+325 Oak Rd Wilmington, MA
+555-4950
+
+add
+Alan Lupine
+Vet
+1 Bigelow Ave. Lawrence, MA
+555-7654
+
+add
+Jewel Proverb
+Landscaper
+34 Washington St. Waltham, MA
+555-3333
+
+add
+Paul Revere
+Radical Revolutionary
+45 Commonwealth Ave. Boston, MA
+555-1776
+
+add
+Adolf Coors
+Beer Manufacturer
+Boston MA
+555-2337
+
+add
+Seymour Papert
+Lego Professor
+MIT
+555-1111
+
+add
+Fred Milton
+Sales
+12 Freedom Way Nashua, NH
+555-9981
+
+list
+
+search
+Alonza Heard
+
+view
+
+flip
+
+search
+Jon Smyth
+
+view
+
+remove
+
+view
+
+add
+Matthew Williams
+Teacher
+69 Main St, Acton, MA
+555-9330
+
+view
+
+flip
+
+remove
+
+view
+
+add
+Jim Butler
+Contractor
+33 Cedar Lane, Concord, MA
+555-8535
+
+view
+
+search
+Jewel Proverb
+
+view
+
+remove
+
+view
+
+add
+Jim Butler
+Consultant
+22 Minuteman St., Lexington, MA
+555-4422
+
+add
+Dan Butler
+Chauffeur
+68 Willow St, Westford, MA
+555-8493
+
+list
